@@ -1,0 +1,28 @@
+{
+  "Newspaper_news": [
+    {
+      "title": "news title 1",
+      "content": "news content... 1",
+	  "metadata":{
+		"arrival_time_to_system": "2023-10-25T22:00:00",
+		"arrival_time": "2023-10-25T22:15:00"
+	  }    
+    },
+	{
+      "title": "news title 2",
+      "content": "news content... 2",
+	  "metadata":{
+		"arrival_time_to_system": "2023-10-25T22:38:00",
+		"arrival_time": "2023-10-25T22:45:00"
+	  }    
+    },
+	{
+      "title": "news title 3",
+      "content": "news content... 3",
+	  "metadata":{
+		"arrival_time_to_system": "2023-10-25T23:02:00",
+		"arrival_time": "2023-10-25T23:21:00"
+	  }    
+    }
+  ]
+}
