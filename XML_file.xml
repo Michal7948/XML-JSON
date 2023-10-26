@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ChabadHouses>
+	<rabbi>
+		<firstName>Mendi</firstName>
+		<lastName>Sudakevich</lastName>
+		<age>24</age>
+		<country>Japan</country>
+		<address>
+			<city>Tokyo</city>
+			<street>Takanawa</street>
+			<numberStreet>1-5-23</numberStreet>
+		</address>
+		<familyDetails>
+			<relative>
+				<firstName>Shalom</firstName>
+				<age>65</age>
+				<address>
+					<city>Jerusalem</city>
+					<street>Bar Ilan</street>
+					<numberStreet>14</numberStreet>
+				</address>
+				<typeRelationship>father</typeRelationship>
+				<phone>0583241476</phone>
+				<phone>0548474185</phone>
+                <phone>0518748174</phone>
+				<phone>0532147598</phone>
+			</relative>
+			<relative>
+				<firstName>Berel</firstName>
+				<age>30</age>
+				<address>
+					<city>Elad</city>
+					<street>hallel</street>
+					<numberStreet>69</numberStreet>
+				</address>
+				<typeRelationship>brother</typeRelationship>
+				<phone>0524781475</phone>
+				<phone>0532584179</phone>
+				<phone>0573584125</phone>
+			</relative>
+			<relative>
+				<firstName>Menachem</firstName>
+				<age>75</age>
+				<address>
+					<city>Ashdod</city>
+					<street>Anemone</street>
+					<numberStreet>54</numberStreet>
+				</address>
+				<typeRelationship>father in law</typeRelationship>
+				<phone>0558974125</phone>
+				<phone>0547521965</phone>
+			</relative>
+		</familyDetails>
+	</rabbi>
+</ChabadHouses>
